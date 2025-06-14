@@ -1,4 +1,4 @@
-![-- Raphaël VASSEUR --](https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif)
+![-- Raphaël VASSEUR --](https://miro.medium.com/v2/resize:fit:1920/0*FGD6BUzzZs1VJLuY.gif)
 
 ![Profile views](https://komarev.com/ghpvc/?username=RaphVSSR&label=Profile%20views&color=0e75b6&style=flat)
 
